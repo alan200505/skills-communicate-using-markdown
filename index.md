@@ -5,6 +5,8 @@
 ##### <h5>heading 5
 ###### <h6>heading 6
 # ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) image
+# $ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
 
 
